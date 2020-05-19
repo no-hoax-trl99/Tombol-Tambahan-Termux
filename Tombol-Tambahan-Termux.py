@@ -18,7 +18,8 @@ def setup():
 
 def banner():
     os.system('clear')
-    print(a+'Shortcut for help you'.center(40))
+    print(a+'Shortcut Tombol-Tambahan-Termux (Home) (End) (PGUP) (PGDN) (Panah Kanan dan Kiri)
+OTOMATIS AKAN MUNCUL'.center(40))
     print(b+'Karjok Pangesty'.center(40))
     print("".join([i for i in "\n"*3]))
 
