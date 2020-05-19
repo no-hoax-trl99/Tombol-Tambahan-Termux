@@ -40,4 +40,4 @@ if __name__=='__main__':
     print(c+'Jangan lupa untuk SUBSCRIBE chanel YOUTUBE '+a+'no hoax trl99'+c+' KOMENTAR jika ada yang mau di bicarakan terkait tool ini, LIKE JIKA Teman-teman suka. :v\nTerimakasih/MATURSUWUN ^_^')
 
 # ini cuma shortcut buat bantu para nub
-# karjok pangesty
+# no-hoax-trl99
