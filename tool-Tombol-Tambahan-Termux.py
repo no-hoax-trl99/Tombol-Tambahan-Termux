@@ -21,7 +21,6 @@ def banner():
     print(a+'Shortcut Tombol Tambahan Termux '.center(40))
     print(b+'(home)(end)(PGUP)(PGDN)(panah kanan dan kiri)'.center(40))
     print(c+'OTOMATIS AKAN MUNCUL '.center(40))
-    print(d+'by eko purnomo '.center(40))
     print("".join([i for i in "\n"*3]))
     
 
