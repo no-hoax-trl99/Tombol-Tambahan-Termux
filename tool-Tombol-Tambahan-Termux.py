@@ -18,9 +18,13 @@ def setup():
 
 def banner():
     os.system('clear')
-    print(a+'Shortcut for help you'.center(40))
-    print(b+'Karjok Pangesty'.center(40))
+    print(a+'Shortcut Tombol Tambahan Termux '.center(40))
+    print(b+'(home)(end)(PGUP)(PGDN)(panah kanan dan kiri)'.center(40))
+    print(c+'OTOMATIS AKAN MUNCUL '.center(40))
+    print(d+'by:eko purnomo '.center(40))
+ 
     print("".join([i for i in "\n"*3]))
+    
 
 
 if __name__=='__main__':
@@ -33,7 +37,7 @@ if __name__=='__main__':
             print('\rPlease wait '+i+' ',end="",flush=True)
             sleep(0.1)
     banner()
-    print(c+'Silahkan hubungi '+a+'https://t.me/om_karjok'+c+' jika ada yang mau di bicarakan terkait tool ini, bisnis atau sekedar bertanya kabar. :v\nTerimakasih ^_^')
+    print(c+'Jangan lupa untuk SUBSCRIBE chanel YOUTUBE '+a+'no hoax trl99'+c+' KOMENTAR jika ada yang mau di bicarakan terkait tool ini, LIKE JIKA Teman-teman suka. :v\nTerimakasih/MATURSUWUN ^_^')
 
 # ini cuma shortcut buat bantu para nub
 # karjok pangesty
